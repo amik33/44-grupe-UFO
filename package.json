@@ -1,0 +1,18 @@
+{
+  "name": "44-grupe-ufo",
+  "version": "1.0.0",
+  "description": "Praktinis darbas",
+  "main": "index.js",
+  "scripts": {
+    "dev":"dead-server --host=localhost --port=4406",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS, HTML"
+  ],
+  "author": "Arunas",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
