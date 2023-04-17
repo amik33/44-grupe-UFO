@@ -21,9 +21,11 @@ Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mo
 ## 🎯 Project features/goals
 
 -   Github pages
--   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   super basic HTML/CSS
 -   favicon
+-   super basic HTML/CSS
+
+-   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 ## 🧰 Getting Started
 
