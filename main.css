@@ -31,16 +31,22 @@
 .main-description {
     font-size: 45px;
     color: black;
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-weight: bold;
     margin-top: -45px;
 }
 
 .button {
     text-decoration: none;
-    border: 0.1em solid;
-    border-radius: 2.25em;
+    border: 0.2em solid #289BF0;
+    border-radius: 2.1em;
     font-size: 20px;       /* 20px=1em. */
     padding: 0.5em 2.0em;
     color: #289BF0; 
 }  
+
+.button:hover {
+    background-color: #289BF0;
+    color: #fff;
+
+}
