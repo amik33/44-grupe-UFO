@@ -1,9 +1,9 @@
-body {
+.container {
     background-color: #fff;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-main {
+.container {
     width: 1200px;
     margin-left: 25px;
     display:flex;
@@ -11,24 +11,24 @@ main {
     justify-content: space-between;
 }
 
-img {
+.right-column {
     width: 550px;
     margin-top: 90px;
 }
 
-div {
+.left-column {
     margin-top: 165px;
     margin-left: 200px;
 }
 
-h1 {
+.main-title {
     font-size: 120px;
     color: #289BF0;
     line-height: 0.2em;
     margin-top: 60px;
 } 
 
-p {
+.main-title {
     font-size: 45px;
     color: black;
     text-transform:uppercase;
@@ -36,7 +36,7 @@ p {
     margin-top: -45px;
 }
 
-a {
+.button {
     text-decoration: none;
     border: 0.1em solid;
     border-radius: 2.25em;
